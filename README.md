@@ -26,4 +26,4 @@ This repository serves as a timeline of my learning journey in Python, progressi
 # How to Run the Code
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/repository-name.git](https://github.com/your-username/repository-name.git)
+   git clone [https://github.com/SakshiChauhan82/Python_training_assignments.git](https://github.com/SakshiChauhan82/Python_training_assignments.git)
